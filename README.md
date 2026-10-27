@@ -32,6 +32,6 @@ El proyecto permitió convertir imágenes simples de producto en composiciones v
 ![Input](Examples/Arenys-Del-Mal/Articulo1/1.png)
 
 **Output generado**  
-![Output](Examples/Arenys-Del-Mal/Articulo1/)
+![Output](Examples/Arenys-Del-Mal/Articulo1/Articulo1.png)
 
 
