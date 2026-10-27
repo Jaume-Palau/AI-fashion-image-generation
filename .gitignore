@@ -1,0 +1,25 @@
+# Archivos temporales
+*.tmp
+*.log
+*.bak
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Modelos de IA pesados
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+
+# Credenciales
+.env
+.env.*
